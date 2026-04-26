@@ -1,16 +1,30 @@
-# React + Vite
+# 🎬 MovieX - Movie & TV App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive movie and TV shows web application built with **React**, **Vite**, and **Tailwind CSS**.  
+The app fetches real-time data from an API and allows users to explore, search, and manage their watchlist.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🔍 Search movies and TV shows
+- 🎞 Browse Movies and TV Series pages
+- ⭐ Add to Watchlist
+- ✅ Mark as Watched
+- 📱 Fully Responsive Design
+- ⚡ Fast performance with Vite
+- 🌐 Fetch data from external API (not static)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (useState, useEffect)
+- React Router DOM
+- Tailwind CSS
+- Fetch API
+- Vite
+
+---
+
+---
